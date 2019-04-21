@@ -1,0 +1,103 @@
+NPU,Neighborhoods,"Count, Total population, 2015","Median, Median age (years), 2015","Median, Median value of owner-occupied unit (dollars), 2015","Median, Median gross rent (dollars), 2015","Median, Median household Income, 2015","Percent, Public transportation (excluding taxicab) to work, 2015","Percent, Walked to work, 2015","Percent, Other means to work, 2015"
+NPU V,"Adair Park, Pittsburgh",5328,34.7,72308,894,20732,37,2.3,0.6
+NPU R,"Adams Park, Laurens Valley, Southwest",7148,34.6,115395,867,33988,17,1.2,1
+NPU H,"Adamsville, Oakcliff",2312,29.9,64550,747,19798,22.7,3.6,0.1
+NPU X,Airport,0,,,,,,,
+NPU G,"Almond Park, Carey Park",2795,24.6,52729,639,19492,22.2,1.6,0
+NPU Y,"Amal Heights, Betmar LaVilla, High Point, Joyland",2361,40.3,79131,859,21154,23.5,0.1,1.7
+NPU E,"Ansley Park, Sherwood Forest",3379,42.3,482237,1305,116146,5.1,8.8,2.3
+NPU C,"Arden/Habersham, Argonne Forest, Peachtree Battle Alliance, Wyngate",2618,50.6,978099,1810,175140,1.3,0.3,0.9
+NPU E,"Ardmore, Brookwood",3058,31.8,264421,1221,75565,5.1,1.7,1
+NPU P,"Arlington Estates, Ben Hill, Butner/Tell, Elmco Estates, Fairburn, Fairburn Tell, Fairway Acres, Huntington, Lake Estates, Wildwood Forest",4265,37.1,108239,1024,40642,10.3,1.3,1.2
+NPU P,"Ashley Courts, Greenbriar Village, Niskey Cove, Niskey Lake, Sandlewood Estates",2982,30.9,151681,851,41935,20.5,0.3,2.1
+NPU T,"Ashview Heights, Harris Chiles, Just Us",2582,33.4,74442,801,22801,11.7,1.1,1
+NPU F,"Atkins Park, Virginia Highland",8360,36.7,516201,971,84424,2.6,3.7,3.5
+NPU G,"Atlanta Industrial Park, Bolton Hills, Brookview Heights, Chattahoochee, English Park, Lincoln Homes, Monroe Heights",1974,37,104824,879,33194,10.2,1.2,2.1
+NPU T,"Atlanta University Center, The Villages at Castleberry Hill",7091,20.5,156008,829,27742,12,29.7,1.6
+NPU E,"Atlantic Station, Loring Heights",4120,27.1,257667,1190,46956,2.8,5.6,3.3
+NPU I,"Audobon Forest, Audobon Forest West, Chalet Woods, Harland Terrace, Peyton Forest, Westhaven",5461,40.4,127233,739,23793,15.6,1.8,0.2
+NPU H,"Baker Hills, Bakers Ferry, Boulder Park, Fairburn Road/Wisteria Lane, Ridgecrest Forest, Wildwood (NPU-H), Wilson Mill Meadows, Wisteria Gardens",4559,42.5,77649,821,32508,17.4,0.1,0.1
+NPU H,"Bankhead Courts, Bankhead/Bolton, Carroll Heights, Fairburn Heights, Old Gordon",3445,35.3,66038,832,25683,17.1,1.6,0.7
+NPU K,"Bankhead, Washington Park",3321,36.2,90134,777,24124,22,3.2,2.3
+NPU I,"Beecher Hills, Florida Heights, Westwood Terrace",2963,46.8,78696,850,31705,17.3,2.4,0.7
+NPU P,"Ben Hill Acres, Briar Glen, Cascade Green, Heritage Valley, Meadowbrook Forest, Mt. Gilead Woods",3313,32.5,102303,935,47645,14.1,0.9,0.6
+NPU P,"Ben Hill Forest, Ben Hill Pines, Brentwood, Deerwood, Mellwood, Rue Royal, Tampa Park",3166,28.8,83634,950,30336,12.9,1.1,1.5
+NPU P,"Ben Hill Terrace, Kings Forest, Old Fairburn Village",2672,35.9,118501,790,36945,15.7,0.8,1
+NPU W,"Benteen Park, Boulevard Heights, Custer/McDonough/Guice, State Facility, Woodland Hills",3706,33.5,170074,956,44243,11.4,1.1,0.5
+NPU D,"Berkeley Park, Blandtown, Hills Park",3716,31.6,216927,1185,59335,1.8,0.4,2
+NPU Z,"Blair Villa/Poole Creek, Glenrose Heights, Orchard Knob, Rosedale Heights",7190,29.8,67647,815,22510,19.7,0,1.8
+NPU D,"Bolton, Riverside, Whittier Mill Village",4754,32.4,194862,1266,69062,4.6,0.7,1.5
+NPU C,"Brandon, Castlewood, Westminster/Milmar, Woodfield",3409,46,676455,403,100028,0,1.8,0
+NPU B,Brookhaven,2286,44.3,651348,1621,153283,1,2.8,1
+NPU E,Brookwood Hills,3246,32.6,525000,872,43228,3.1,3.6,1.8
+NPU Z,"Browns Mill Park, Polar Rock, Swallow Circle/Baywood",4661,29.7,83727,820,22507,25,0.1,2
+NPU B,"Buckhead Forest, South Tuxedo Park",2907,32.1,309328,1487,92923,0.4,2.7,0.2
+NPU B,"Buckhead Heights, Lenox, Ridgedale Park",3380,48,295000,1727,86948,1.8,3.8,3.5
+NPU B,"Buckhead Village, Peachtree Park",2332,33.9,429949,935,68905,1.1,3.7,2.2
+NPU S,"Bush Mountain, Oakland City",4021,35,67118,876,21669,29.2,1.5,0.6
+NPU N,"Cabbagetown, Reynoldstown",4205,33.1,210179,960,58685,7.7,1.1,7.2
+NPU R,"Campbellton Road, Fort Valley, Pomona Park",6584,31.5,93569,736,13511,42.7,1.5,0
+NPU N,"Candler Park, Druid Hills",5280,35.1,422443,1009,93928,5.8,2.8,4.4
+NPU V,"Capitol Gateway, Summerhill",3524,33.6,155834,774,22852,11.5,4.5,3.3
+NPU X,"Capitol View, Capitol View Manor",3072,41.3,73094,1143,41450,21.9,0.4,1.7
+NPU G,"Carver Hills, Rockdale, Scotts Crossing, West Highlands",3497,34.9,116029,777,25951,15.9,0,0.5
+NPU S,Cascade Avenue/Road,2490,40.2,80416,1129,36688,20.2,1.7,0.6
+NPU I,"Cascade Heights, East Ardley Road, Green Acres Valley, Green Forest Acres, Horseshoe Community, Magnum Manor, West Manor",3572,43.2,104873,1162,47366,7.4,0.9,0.8
+NPU M,"Castleberry Hill, Downtown",16326,26.2,162925,988,41841,9.7,17.8,2
+NPU J,"Center Hill, Harvel Homes Community",2285,44.4,65024,851,25679,14.2,1.3,0
+NPU C,"Channing Valley, Memorial Park, Springlake, Wildwood (NPU-C)",4221,32,606131,1222,106681,1.4,0,0.3
+NPU A,"Chastain Park, Tuxedo Park",3251,43,883916,1187,,1.7,0.9,0.4
+NPU Y,"Chosewood Park, Englewood Manor",3776,38.7,86599,670,25871,16,5.2,0
+NPU I,Collier Heights,5631,45,90076,793,27069,13.3,4.6,0
+NPU C,"Collier Hills, Collier Hills North, Colonial Homes",2806,34.3,309739,1128,62494,4.5,1,0.5
+NPU C,Cross Creek,2637,33.9,135474,1170,63220,0.5,0.7,0
+NPU J,"Dixie Hills, Penelope Neighbors, West Lake",3229,41.5,65916,833,27140,16.2,0.7,0
+NPU W,East Atlanta,5422,38.9,194448,1008,48003,3.6,0.3,0.5
+NPU B,East Chastain Park,1888,35,272356,1272,75063,1.2,1.3,0
+NPU O,"East Lake, The Villages at East Lake",4680,36.2,219834,778,51049,10.5,0.1,3.9
+NPU O,Edgewood,4213,35.9,203499,1020,39646,9.2,1.5,3.2
+NPU L,English Avenue,3537,24.5,225878,825,12628,14.3,3,1.1
+NPU H,"Fairburn Mays, Mays",5135,31,64989,799,28803,22.7,2,0.2
+NPU C,"Fernleaf, Hanover West, Ridgewood Heights, Wesley Battle, Westover Plantation",2535,38.1,278537,1142,94615,1.6,0.9,0
+NPU S,"Fort McPherson, Venetian Hills",4264,39.2,73684,928,27151,20.9,1.8,0.2
+NPU B,Garden Hills,4034,35,420425,1098,72717,1.5,2.9,0.9
+NPU E,"Georgia Tech, Marietta Street Artery",8271,20.4,201400,1176,34818,6.4,38.8,3.2
+NPU W,"Grant Park, Oakland",7258,35.4,263870,1239,84271,4.5,3.1,3.8
+NPU R,Greenbriar,5021,28.6,85900,827,21901,16.7,0,0
+NPU J,Grove Park,4646,34.7,72455,918,25891,12.6,2.2,0.5
+NPU X,Hammond Park,2466,38.5,64886,714,16371,13.4,1.1,0
+NPU E,Home Park,5420,24.1,211485,1248,44207,4.8,22.5,4.1
+NPU K,"Hunter Hills, Mozley Park",3864,43.3,61519,850,33834,17.5,1.5,1
+NPU N,"Inman Park, Poncey-Highland",6788,32.5,310453,1166,69696,4.2,3.9,4.6
+NPU I,Ivan Hill,6024,26.1,112969,719,19763,28,4,0.2
+NPU A,"Kingswood, Mt. Paran/Northside, Mt. Paran Parkway, Randall Mill, West Paces Ferry/Northside, Whitewater Creek",4845,43.3,958256,1596,186825,0,0.7,1
+NPU O,Kirkwood,6053,38,233307,893,59805,11.9,1,1.9
+NPU K,Knight Park/Howell Station,2788,35.8,217361,1194,74483,0,0.7,3.4
+NPU N,Lake Claire,2766,37.5,375975,1149,101394,7.8,0.5,2.8
+NPU Y,Lakewood Heights,1615,35.5,69796,912,23181,22.4,0.1,0.9
+NPU Z,"Lakewood, Leila Valley, Norwood Manor, Rebel Valley Forest",2374,34.7,74187,785,24730,21.6,0.3,0.3
+NPU B,Lindbergh/Morosgo,5826,29,121703,1181,54876,16.2,3.4,0.4
+NPU F,Lindridge/Martin Manor,4613,33.8,266706,1023,54424,8.5,2.3,1.5
+NPU A,"Margaret Mitchell, Paces, Pleasant Hill",4410,43.2,871309,1560,159271,0,0.1,0.3
+NPU V,Mechanicsville,3645,27.5,85625,668,17484,28.6,0,0
+NPU E,Midtown,17881,34.9,251828,1129,72653,6.9,13,3.8
+NPU Q,"Midwest Cascade, Regency Trace",2852,37.5,180774,1094,71163,15.8,0.7,1.7
+NPU F,Morningside/Lenox Park,9734,40.9,514977,1201,112625,2.6,1.9,2.4
+NPU B,North Buckhead,8897,38.4,463416,1400,119891,2,2,2.8
+NPU M,"Old Fourth Ward, Sweet Auburn",14321,32.8,160770,979,42627,5.4,10.2,3.4
+NPU W,Ormewood Park,5116,33.9,230744,1217,78119,5.4,1.6,2.8
+NPU B,"Peachtree Heights East, Peachtree Hills",3732,35,428067,1169,91328,4.6,0.5,0.3
+NPU B,Peachtree Heights West,4439,44.8,457718,1177,73120,1.2,1.2,1
+NPU V,Peoplestown,3044,29.6,120366,847,20292,12.9,1.6,2.4
+NPU X,Perkerson,2262,43.5,49044,508,18414,23.4,0.5,0
+NPU F,Piedmont Heights,2953,35.6,346665,1149,66051,7.2,2.4,1.6
+NPU B,Pine Hills,8988,31.1,227234,1160,61467,9.3,3.4,0.9
+NPU P,Princeton Lakes,4131,30.1,160882,898,50756,12.9,1.1,1.5
+NPU Y,"South Atlanta, The Villages at Carver",2616,29.3,71558,712,16413,11.9,2.8,0.3
+NPU Z,South River Gardens,2627,35.9,74450,827,24965,18,0,0.8
+NPU X,Sylvan Hills,4978,35.7,76572,910,27164,20.9,0.2,1.6
+NPU Z,Thomasville Heights,2988,21.1,82332,736,10480,24.2,0.5,0
+NPU D,Underwood Hills,2891,31.8,212957,1149,59323,1,0.6,1.7
+NPU L,Vine City,3434,30.5,157447,840,25413,31,4.7,1.9
+NPU T,West End,4515,36.1,103852,721,22572,25.7,1.8,2.4
+NPU T,Westview,3072,36.8,93971,927,32417,20.3,3.6,2.6
