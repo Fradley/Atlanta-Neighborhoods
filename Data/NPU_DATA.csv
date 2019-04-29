@@ -1,103 +1,103 @@
-NPU,Neighborhoods,"Count, Total population, 2015","Median, Median age (years), 2015","Median, Median value of owner-occupied unit (dollars), 2015","Median, Median gross rent (dollars), 2015","Median, Median household Income, 2015","Percent, Public transportation (excluding taxicab) to work, 2015","Percent, Walked to work, 2015","Percent, Other means to work, 2015"
-NPU V,"Adair Park, Pittsburgh",5328,34.7,72308,894,20732,37,2.3,0.6
-NPU R,"Adams Park, Laurens Valley, Southwest",7148,34.6,115395,867,33988,17,1.2,1
-NPU H,"Adamsville, Oakcliff",2312,29.9,64550,747,19798,22.7,3.6,0.1
-NPU X,Airport,0,,,,,,,
-NPU G,"Almond Park, Carey Park",2795,24.6,52729,639,19492,22.2,1.6,0
-NPU Y,"Amal Heights, Betmar LaVilla, High Point, Joyland",2361,40.3,79131,859,21154,23.5,0.1,1.7
-NPU E,"Ansley Park, Sherwood Forest",3379,42.3,482237,1305,116146,5.1,8.8,2.3
-NPU C,"Arden/Habersham, Argonne Forest, Peachtree Battle Alliance, Wyngate",2618,50.6,978099,1810,175140,1.3,0.3,0.9
-NPU E,"Ardmore, Brookwood",3058,31.8,264421,1221,75565,5.1,1.7,1
-NPU P,"Arlington Estates, Ben Hill, Butner/Tell, Elmco Estates, Fairburn, Fairburn Tell, Fairway Acres, Huntington, Lake Estates, Wildwood Forest",4265,37.1,108239,1024,40642,10.3,1.3,1.2
-NPU P,"Ashley Courts, Greenbriar Village, Niskey Cove, Niskey Lake, Sandlewood Estates",2982,30.9,151681,851,41935,20.5,0.3,2.1
-NPU T,"Ashview Heights, Harris Chiles, Just Us",2582,33.4,74442,801,22801,11.7,1.1,1
-NPU F,"Atkins Park, Virginia Highland",8360,36.7,516201,971,84424,2.6,3.7,3.5
-NPU G,"Atlanta Industrial Park, Bolton Hills, Brookview Heights, Chattahoochee, English Park, Lincoln Homes, Monroe Heights",1974,37,104824,879,33194,10.2,1.2,2.1
-NPU T,"Atlanta University Center, The Villages at Castleberry Hill",7091,20.5,156008,829,27742,12,29.7,1.6
-NPU E,"Atlantic Station, Loring Heights",4120,27.1,257667,1190,46956,2.8,5.6,3.3
-NPU I,"Audobon Forest, Audobon Forest West, Chalet Woods, Harland Terrace, Peyton Forest, Westhaven",5461,40.4,127233,739,23793,15.6,1.8,0.2
-NPU H,"Baker Hills, Bakers Ferry, Boulder Park, Fairburn Road/Wisteria Lane, Ridgecrest Forest, Wildwood (NPU-H), Wilson Mill Meadows, Wisteria Gardens",4559,42.5,77649,821,32508,17.4,0.1,0.1
-NPU H,"Bankhead Courts, Bankhead/Bolton, Carroll Heights, Fairburn Heights, Old Gordon",3445,35.3,66038,832,25683,17.1,1.6,0.7
-NPU K,"Bankhead, Washington Park",3321,36.2,90134,777,24124,22,3.2,2.3
-NPU I,"Beecher Hills, Florida Heights, Westwood Terrace",2963,46.8,78696,850,31705,17.3,2.4,0.7
-NPU P,"Ben Hill Acres, Briar Glen, Cascade Green, Heritage Valley, Meadowbrook Forest, Mt. Gilead Woods",3313,32.5,102303,935,47645,14.1,0.9,0.6
-NPU P,"Ben Hill Forest, Ben Hill Pines, Brentwood, Deerwood, Mellwood, Rue Royal, Tampa Park",3166,28.8,83634,950,30336,12.9,1.1,1.5
-NPU P,"Ben Hill Terrace, Kings Forest, Old Fairburn Village",2672,35.9,118501,790,36945,15.7,0.8,1
-NPU W,"Benteen Park, Boulevard Heights, Custer/McDonough/Guice, State Facility, Woodland Hills",3706,33.5,170074,956,44243,11.4,1.1,0.5
-NPU D,"Berkeley Park, Blandtown, Hills Park",3716,31.6,216927,1185,59335,1.8,0.4,2
-NPU Z,"Blair Villa/Poole Creek, Glenrose Heights, Orchard Knob, Rosedale Heights",7190,29.8,67647,815,22510,19.7,0,1.8
-NPU D,"Bolton, Riverside, Whittier Mill Village",4754,32.4,194862,1266,69062,4.6,0.7,1.5
-NPU C,"Brandon, Castlewood, Westminster/Milmar, Woodfield",3409,46,676455,403,100028,0,1.8,0
-NPU B,Brookhaven,2286,44.3,651348,1621,153283,1,2.8,1
-NPU E,Brookwood Hills,3246,32.6,525000,872,43228,3.1,3.6,1.8
-NPU Z,"Browns Mill Park, Polar Rock, Swallow Circle/Baywood",4661,29.7,83727,820,22507,25,0.1,2
-NPU B,"Buckhead Forest, South Tuxedo Park",2907,32.1,309328,1487,92923,0.4,2.7,0.2
-NPU B,"Buckhead Heights, Lenox, Ridgedale Park",3380,48,295000,1727,86948,1.8,3.8,3.5
-NPU B,"Buckhead Village, Peachtree Park",2332,33.9,429949,935,68905,1.1,3.7,2.2
-NPU S,"Bush Mountain, Oakland City",4021,35,67118,876,21669,29.2,1.5,0.6
-NPU N,"Cabbagetown, Reynoldstown",4205,33.1,210179,960,58685,7.7,1.1,7.2
-NPU R,"Campbellton Road, Fort Valley, Pomona Park",6584,31.5,93569,736,13511,42.7,1.5,0
-NPU N,"Candler Park, Druid Hills",5280,35.1,422443,1009,93928,5.8,2.8,4.4
-NPU V,"Capitol Gateway, Summerhill",3524,33.6,155834,774,22852,11.5,4.5,3.3
-NPU X,"Capitol View, Capitol View Manor",3072,41.3,73094,1143,41450,21.9,0.4,1.7
-NPU G,"Carver Hills, Rockdale, Scotts Crossing, West Highlands",3497,34.9,116029,777,25951,15.9,0,0.5
-NPU S,Cascade Avenue/Road,2490,40.2,80416,1129,36688,20.2,1.7,0.6
-NPU I,"Cascade Heights, East Ardley Road, Green Acres Valley, Green Forest Acres, Horseshoe Community, Magnum Manor, West Manor",3572,43.2,104873,1162,47366,7.4,0.9,0.8
-NPU M,"Castleberry Hill, Downtown",16326,26.2,162925,988,41841,9.7,17.8,2
-NPU J,"Center Hill, Harvel Homes Community",2285,44.4,65024,851,25679,14.2,1.3,0
-NPU C,"Channing Valley, Memorial Park, Springlake, Wildwood (NPU-C)",4221,32,606131,1222,106681,1.4,0,0.3
-NPU A,"Chastain Park, Tuxedo Park",3251,43,883916,1187,,1.7,0.9,0.4
-NPU Y,"Chosewood Park, Englewood Manor",3776,38.7,86599,670,25871,16,5.2,0
-NPU I,Collier Heights,5631,45,90076,793,27069,13.3,4.6,0
-NPU C,"Collier Hills, Collier Hills North, Colonial Homes",2806,34.3,309739,1128,62494,4.5,1,0.5
-NPU C,Cross Creek,2637,33.9,135474,1170,63220,0.5,0.7,0
-NPU J,"Dixie Hills, Penelope Neighbors, West Lake",3229,41.5,65916,833,27140,16.2,0.7,0
-NPU W,East Atlanta,5422,38.9,194448,1008,48003,3.6,0.3,0.5
-NPU B,East Chastain Park,1888,35,272356,1272,75063,1.2,1.3,0
-NPU O,"East Lake, The Villages at East Lake",4680,36.2,219834,778,51049,10.5,0.1,3.9
-NPU O,Edgewood,4213,35.9,203499,1020,39646,9.2,1.5,3.2
-NPU L,English Avenue,3537,24.5,225878,825,12628,14.3,3,1.1
-NPU H,"Fairburn Mays, Mays",5135,31,64989,799,28803,22.7,2,0.2
-NPU C,"Fernleaf, Hanover West, Ridgewood Heights, Wesley Battle, Westover Plantation",2535,38.1,278537,1142,94615,1.6,0.9,0
-NPU S,"Fort McPherson, Venetian Hills",4264,39.2,73684,928,27151,20.9,1.8,0.2
-NPU B,Garden Hills,4034,35,420425,1098,72717,1.5,2.9,0.9
-NPU E,"Georgia Tech, Marietta Street Artery",8271,20.4,201400,1176,34818,6.4,38.8,3.2
-NPU W,"Grant Park, Oakland",7258,35.4,263870,1239,84271,4.5,3.1,3.8
-NPU R,Greenbriar,5021,28.6,85900,827,21901,16.7,0,0
-NPU J,Grove Park,4646,34.7,72455,918,25891,12.6,2.2,0.5
-NPU X,Hammond Park,2466,38.5,64886,714,16371,13.4,1.1,0
-NPU E,Home Park,5420,24.1,211485,1248,44207,4.8,22.5,4.1
-NPU K,"Hunter Hills, Mozley Park",3864,43.3,61519,850,33834,17.5,1.5,1
-NPU N,"Inman Park, Poncey-Highland",6788,32.5,310453,1166,69696,4.2,3.9,4.6
-NPU I,Ivan Hill,6024,26.1,112969,719,19763,28,4,0.2
-NPU A,"Kingswood, Mt. Paran/Northside, Mt. Paran Parkway, Randall Mill, West Paces Ferry/Northside, Whitewater Creek",4845,43.3,958256,1596,186825,0,0.7,1
-NPU O,Kirkwood,6053,38,233307,893,59805,11.9,1,1.9
-NPU K,Knight Park/Howell Station,2788,35.8,217361,1194,74483,0,0.7,3.4
-NPU N,Lake Claire,2766,37.5,375975,1149,101394,7.8,0.5,2.8
-NPU Y,Lakewood Heights,1615,35.5,69796,912,23181,22.4,0.1,0.9
-NPU Z,"Lakewood, Leila Valley, Norwood Manor, Rebel Valley Forest",2374,34.7,74187,785,24730,21.6,0.3,0.3
-NPU B,Lindbergh/Morosgo,5826,29,121703,1181,54876,16.2,3.4,0.4
-NPU F,Lindridge/Martin Manor,4613,33.8,266706,1023,54424,8.5,2.3,1.5
-NPU A,"Margaret Mitchell, Paces, Pleasant Hill",4410,43.2,871309,1560,159271,0,0.1,0.3
-NPU V,Mechanicsville,3645,27.5,85625,668,17484,28.6,0,0
-NPU E,Midtown,17881,34.9,251828,1129,72653,6.9,13,3.8
-NPU Q,"Midwest Cascade, Regency Trace",2852,37.5,180774,1094,71163,15.8,0.7,1.7
-NPU F,Morningside/Lenox Park,9734,40.9,514977,1201,112625,2.6,1.9,2.4
-NPU B,North Buckhead,8897,38.4,463416,1400,119891,2,2,2.8
-NPU M,"Old Fourth Ward, Sweet Auburn",14321,32.8,160770,979,42627,5.4,10.2,3.4
-NPU W,Ormewood Park,5116,33.9,230744,1217,78119,5.4,1.6,2.8
-NPU B,"Peachtree Heights East, Peachtree Hills",3732,35,428067,1169,91328,4.6,0.5,0.3
-NPU B,Peachtree Heights West,4439,44.8,457718,1177,73120,1.2,1.2,1
-NPU V,Peoplestown,3044,29.6,120366,847,20292,12.9,1.6,2.4
-NPU X,Perkerson,2262,43.5,49044,508,18414,23.4,0.5,0
-NPU F,Piedmont Heights,2953,35.6,346665,1149,66051,7.2,2.4,1.6
-NPU B,Pine Hills,8988,31.1,227234,1160,61467,9.3,3.4,0.9
-NPU P,Princeton Lakes,4131,30.1,160882,898,50756,12.9,1.1,1.5
-NPU Y,"South Atlanta, The Villages at Carver",2616,29.3,71558,712,16413,11.9,2.8,0.3
-NPU Z,South River Gardens,2627,35.9,74450,827,24965,18,0,0.8
-NPU X,Sylvan Hills,4978,35.7,76572,910,27164,20.9,0.2,1.6
-NPU Z,Thomasville Heights,2988,21.1,82332,736,10480,24.2,0.5,0
-NPU D,Underwood Hills,2891,31.8,212957,1149,59323,1,0.6,1.7
-NPU L,Vine City,3434,30.5,157447,840,25413,31,4.7,1.9
-NPU T,West End,4515,36.1,103852,721,22572,25.7,1.8,2.4
-NPU T,Westview,3072,36.8,93971,927,32417,20.3,3.6,2.6
+,NPU,"Count, Total population, 2015","Median, Median age (years), 2015","Median, Median value of owner-occupied unit (dollars), 2015","Median, Median gross rent (dollars), 2015","Median, Median household Income, 2015","Percent, Public transportation (excluding taxicab) to work, 2015","Percent, Walked to work, 2015","Percent, Other means to work, 2015",Crime Count,Neighborhood,Location,Coordinate
+0,NPU V,5328,34.7,72308.0,894.0,20732.0,37.0,2.3,0.6,187,Adair Park,"Adair Park, Atlanta, GA 30310, USA","(33.7302639, -84.4107008)"
+1,NPU V,3524,33.6,155834.0,774.0,22852.0,11.5,4.5,3.3,187,Capitol Gateway,"89 Woodward Ave SE, Atlanta, GA 30312, USA","(33.7453143, -84.38412249999999)"
+2,NPU V,3645,27.5,85625.0,668.0,17484.0,28.6,0.0,0.0,187,Mechanicsville,"Mechanicsville, Atlanta, GA, USA","(33.7419681, -84.3957413)"
+3,NPU V,3044,29.6,120366.0,847.0,20292.0,12.9,1.6,2.4,187,Peoplestown,"Peoplestown, Atlanta, GA 30315, USA","(33.7278848, -84.3852043)"
+4,NPU R,7148,34.6,115395.0,867.0,33988.0,17.0,1.2,1.0,146,Adams Park,"Adams Park, Atlanta, GA 30311, USA","(33.7144587, -84.4618943)"
+5,NPU R,6584,31.5,93569.0,736.0,13511.0,42.7,1.5,0.0,146,Campbellton Road,"Campbellton Rd SW, Atlanta, GA, USA","(33.6989276, -84.4823359)"
+6,NPU R,5021,28.6,85900.0,827.0,21901.0,16.7,0.0,0.0,146,Greenbriar,"Greenbriar, Atlanta, GA, USA","(33.6824236, -84.4933758)"
+7,NPU H,2312,29.9,64550.0,747.0,19798.0,22.7,3.6,0.1,81,Adamsville,"Adamsville, Atlanta, GA 30331, USA","(33.7595402, -84.5054158)"
+8,NPU H,4559,42.5,77649.0,821.0,32508.0,17.4,0.1,0.1,81,Baker Hills,"Baker Hills, Atlanta, GA, USA","(33.7602634, -84.5209081)"
+9,NPU H,3445,35.3,66038.0,832.0,25683.0,17.1,1.6,0.7,81,Bankhead Courts,"Bankhead Courts, Atlanta, GA 30331, USA","(33.7935287, -84.5018991)"
+10,NPU H,5135,31.0,64989.0,799.0,28803.0,22.7,2.0,0.2,81,Fairburn Mays,"Fairburn Mays, Atlanta, GA 30331, USA","(33.7403015, -84.5104212)"
+11,NPU X,0,,,,,,,,161,Airport,"Hartsfield-Jackson Atlanta International Airport (ATL), 6000 N Terminal Pkwy, Atlanta, GA 30320, USA","(33.6407282, -84.4277001)"
+12,NPU X,3072,41.3,73094.0,1143.0,41450.0,21.9,0.4,1.7,161,Capitol View,"Capitol View, Atlanta, GA 30310, USA","(33.7179062, -84.4146403)"
+13,NPU X,2466,38.5,64886.0,714.0,16371.0,13.4,1.1,0.0,161,Hammond Park,"Hammond Park, Atlanta, GA, USA","(33.6771069, -84.4084799)"
+14,NPU X,2262,43.5,49044.0,508.0,18414.0,23.4,0.5,0.0,161,Perkerson,"Perkerson, Atlanta, GA, USA","(33.6855699, -84.4082679)"
+15,NPU X,4978,35.7,76572.0,910.0,27164.0,20.9,0.2,1.6,161,Sylvan Hills,"Sylvan Hills, Atlanta, GA 30310, USA","(33.7092744, -84.4177054)"
+16,NPU G,2795,24.6,52729.0,639.0,19492.0,22.2,1.6,0.0,71,Almond Park,"Almond Park, Atlanta, GA 30318, USA","(33.7815374, -84.4671424)"
+17,NPU G,1974,37.0,104824.0,879.0,33194.0,10.2,1.2,2.1,71,Atlanta Industrial Park,"Atlanta Industrial Park, Donald Lee Hollowell Pkwy NW, Atlanta, GA 30331, USA","(33.7994128, -84.4933758)"
+18,NPU G,3497,34.9,116029.0,777.0,25951.0,15.9,0.0,0.5,71,Carver Hills,"Carver Hills, Atlanta, GA 30318, USA","(33.7993388, -84.46058219999999)"
+19,NPU Y,2361,40.3,79131.0,859.0,21154.0,23.5,0.1,1.7,70,Amal Heights,"Amal Heights, Atlanta, GA 30315, USA","(33.7081093, -84.3982238)"
+20,NPU Y,3776,38.7,86599.0,670.0,25871.0,16.0,5.2,0.0,70,Chosewood Park,"Chosewood Park, Atlanta, GA 30315, USA","(33.7203589, -84.376547)"
+21,NPU Y,1615,35.5,69796.0,912.0,23181.0,22.4,0.1,0.9,70,Lakewood Heights,"Lakewood Heights, Atlanta, GA 30315, USA","(33.7048298, -84.3785372)"
+22,NPU Y,2616,29.3,71558.0,712.0,16413.0,11.9,2.8,0.3,70,South Atlanta,"South Atlanta, Atlanta, GA 30315, USA","(33.7123595, -84.3844304)"
+23,NPU E,3379,42.3,482237.0,1305.0,116146.0,5.1,8.8,2.3,587,Ansley Park,"Ansley Park, Atlanta, GA, USA","(33.794558, -84.3790372)"
+24,NPU E,3058,31.8,264421.0,1221.0,75565.0,5.1,1.7,1.0,587,Ardmore,"Ardmore, Atlanta, GA 30309, USA","(33.8048477, -84.39756709999999)"
+25,NPU E,4120,27.1,257667.0,1190.0,46956.0,2.8,5.6,3.3,587,Atlantic Station,"Atlantic Station, Atlanta, GA, USA","(33.7912543, -84.3987406)"
+26,NPU E,3246,32.6,525000.0,872.0,43228.0,3.1,3.6,1.8,587,Brookwood Hills,"232 Parkdale Way NE, Atlanta, GA 30309, USA","(33.8067961, -84.3899131)"
+27,NPU E,8271,20.4,201400.0,1176.0,34818.0,6.4,38.8,3.2,587,Georgia Tech,"North Ave NW, Atlanta, GA 30332, USA","(33.7756178, -84.39628499999999)"
+28,NPU E,5420,24.1,211485.0,1248.0,44207.0,4.8,22.5,4.1,587,Home Park,"Home Park, Atlanta, GA, USA","(33.7845319, -84.402823)"
+29,NPU E,17881,34.9,251828.0,1129.0,72653.0,6.9,13.0,3.8,587,Midtown,"Midtown Atlanta, Atlanta, GA, USA","(33.783315, -84.3831166)"
+30,NPU C,2618,50.6,978099.0,1810.0,175140.0,1.3,0.3,0.9,107,Arden/Habersham,"Arden/Habersham, Atlanta, GA 30305, USA","(33.8383598, -84.400194)"
+31,NPU C,3409,46.0,676455.0,403.0,100028.0,0.0,1.8,0.0,107,Brandon,"Brandon, Atlanta, GA, USA","(33.8309637, -84.4212057)"
+32,NPU C,4221,32.0,606131.0,1222.0,106681.0,1.4,0.0,0.3,107,Channing Valley,"Channing Valley, Atlanta, GA 30318, USA","(33.8061087, -84.4100442)"
+33,NPU C,2806,34.3,309739.0,1128.0,62494.0,4.5,1.0,0.5,107,Collier Hills,"Collier Hills, Atlanta, GA, USA","(33.807988, -84.4054477)"
+34,NPU C,2637,33.9,135474.0,1170.0,63220.0,0.5,0.7,0.0,107,Cross Creek,"Cross Creek, Atlanta, GA, USA","(33.8171685, -84.4238316)"
+35,NPU C,2535,38.1,278537.0,1142.0,94615.0,1.6,0.9,0.0,107,Fernleaf,"Fernleaf, Atlanta, GA 30318, USA","(33.8211423, -84.44253789999999)"
+36,NPU P,4265,37.1,108239.0,1024.0,40642.0,10.3,1.3,1.2,123,Arlington Estates,"Arlington Estates, Atlanta, GA 30331, USA","(33.6915398, -84.5418765)"
+37,NPU P,2982,30.9,151681.0,851.0,41935.0,20.5,0.3,2.1,123,Ashley Courts,"Ashley Courts, Atlanta, GA 30331, USA","(33.7193792, -84.5254956)"
+38,NPU P,3313,32.5,102303.0,935.0,47645.0,14.1,0.9,0.6,123,Ben Hill Acres,"Ben Hill Acres, Atlanta, GA 30331, USA","(33.6956061, -84.50779910000001)"
+39,NPU P,3166,28.8,83634.0,950.0,30336.0,12.9,1.1,1.5,123,Ben Hill Forest,"Ben Hill Forest, Atlanta, GA 30331, USA","(33.676531, -84.5018991)"
+40,NPU P,2672,35.9,118501.0,790.0,36945.0,15.7,0.8,1.0,123,Ben Hill Terrace,"Ben Hill Terrace, Atlanta, GA 30331, USA","(33.698974, -84.5209081)"
+41,NPU P,4131,30.1,160882.0,898.0,50756.0,12.9,1.1,1.5,123,Princeton Lakes,"Princeton Lakes, Atlanta, GA, USA","(33.6610546, -84.514354)"
+42,NPU T,2582,33.4,74442.0,801.0,22801.0,11.7,1.1,1.0,177,Ashview Heights,"Ashview Heights, Atlanta, GA, USA","(33.7515681, -84.41989269999999)"
+43,NPU T,7091,20.5,156008.0,829.0,27742.0,12.0,29.7,1.6,177,Atlanta University Center,"Atlanta University Center, Atlanta, GA, USA","(33.7498792, -84.4133272)"
+44,NPU T,4515,36.1,103852.0,721.0,22572.0,25.7,1.8,2.4,177,West End,"West End, Atlanta, GA 30310, USA","(33.7383798, -84.4233849)"
+45,NPU T,3072,36.8,93971.0,927.0,32417.0,20.3,3.6,2.6,177,Westview,"Westview, Atlanta, GA 30310, USA","(33.7399222, -84.4395847)"
+46,NPU F,8360,36.7,516201.0,971.0,84424.0,2.6,3.7,3.5,216,Atkins Park,"Atkins Park, Atlanta, GA 30306, USA","(33.7755235, -84.34960400000001)"
+47,NPU F,4613,33.8,266706.0,1023.0,54424.0,8.5,2.3,1.5,216,Lindridge/Martin Manor,"Lindridge-Martin Manor, Atlanta, GA 30324, USA","(33.8184435, -84.3516604)"
+48,NPU F,9734,40.9,514977.0,1201.0,112625.0,2.6,1.9,2.4,216,Morningside/Lenox Park,"Morningside-Lenox Park, Atlanta, GA, USA","(33.7961556, -84.3594626)"
+49,NPU F,2953,35.6,346665.0,1149.0,66051.0,7.2,2.4,1.6,216,Piedmont Heights,"Piedmont Heights, Atlanta, GA, USA","(33.8013127, -84.3720159)"
+50,NPU I,5461,40.4,127233.0,739.0,23793.0,15.6,1.8,0.2,123,Audobon Forest,"Audobon Forest, Atlanta, GA 30311, USA","(33.7301921, -84.4710782)"
+51,NPU I,2963,46.8,78696.0,850.0,31705.0,17.3,2.4,0.7,123,Beecher Hills,"Beecher Hills, Atlanta, GA, USA","(33.7311741, -84.4618943)"
+52,NPU I,3572,43.2,104873.0,1162.0,47366.0,7.4,0.9,0.8,123,Cascade Heights,"Cascade Heights, Atlanta, GA 30311, USA","(33.7194001, -84.47894889999999)"
+53,NPU I,5631,45.0,90076.0,793.0,27069.0,13.3,4.6,0.0,123,Collier Heights,"Collier Heights, Atlanta, GA 30318, USA","(33.7717999, -84.48499819999999)"
+54,NPU I,6024,26.1,112969.0,719.0,19763.0,28.0,4.0,0.2,123,Ivan Hill,"Ivan Hill, Atlanta, GA 30311, USA","(33.745548, -84.4874743)"
+55,NPU K,3321,36.2,90134.0,777.0,24124.0,22.0,3.2,2.3,65,Bankhead,"Bankhead, Atlanta, GA, USA","(33.7717269, -84.4192362)"
+56,NPU K,3864,43.3,61519.0,850.0,33834.0,17.5,1.5,1.0,65,Hunter Hills,"Hunter Hills, Atlanta, GA 30314, USA","(33.7576114, -84.4303959)"
+57,NPU K,2788,35.8,217361.0,1194.0,74483.0,0.0,0.7,3.4,65,Knight Park/Howell Station,"Knight Park/Howell Station, Atlanta, GA 30318, USA","(33.77941310000001, -84.41989269999999)"
+58,NPU W,3706,33.5,170074.0,956.0,44243.0,11.4,1.1,0.5,169,Benteen Park,"Benteen Park Dr SE, Atlanta, GA 30315, USA","(33.7153241, -84.36141459999999)"
+59,NPU W,5422,38.9,194448.0,1008.0,48003.0,3.6,0.3,0.5,169,East Atlanta,"East Atlanta, Atlanta, GA 30316, USA","(33.7366044, -84.3357992)"
+60,NPU W,7258,35.4,263870.0,1239.0,84271.0,4.5,3.1,3.8,169,Grant Park,"Grant Park, Atlanta, GA, USA","(33.7371583, -84.36820999999999)"
+61,NPU W,5116,33.9,230744.0,1217.0,78119.0,5.4,1.6,2.8,169,Ormewood Park,"Ormewood Park, Atlanta, GA, USA","(33.7333284, -84.35551939999999)"
+62,NPU D,3716,31.6,216927.0,1185.0,59335.0,1.8,0.4,2.0,235,Berkeley Park,"Berkeley Park, Atlanta, GA 30318, USA","(33.7909557, -84.4091835)"
+63,NPU D,4754,32.4,194862.0,1266.0,69062.0,4.6,0.7,1.5,235,Bolton,"Bolton, Atlanta, GA 30318, USA","(33.8144708, -84.45664579999999)"
+64,NPU D,2891,31.8,212957.0,1149.0,59323.0,1.0,0.6,1.7,235,Underwood Hills,"Underwood Hills, Atlanta, GA, USA","(33.80881919999999, -84.4238316)"
+65,NPU Z,7190,29.8,67647.0,815.0,22510.0,19.7,0.0,1.8,136,Blair Villa/Poole Creek,"Blair Villa/Poole Creek, Atlanta, GA 30354, USA","(33.6521117, -84.3806123)"
+66,NPU Z,4661,29.7,83727.0,820.0,22507.0,25.0,0.1,2.0,136,Browns Mill Park,"Browns Mill Park, Atlanta, GA, USA","(33.6844957, -84.3844304)"
+67,NPU Z,2374,34.7,74187.0,785.0,24730.0,21.6,0.3,0.3,136,Lakewood,"Lakewood Heights, Atlanta, GA 30315, USA","(33.7048298, -84.3785372)"
+68,NPU Z,2627,35.9,74450.0,827.0,24965.0,18.0,0.0,0.8,136,South River Gardens,"South River Gardens, Atlanta, GA, USA","(33.6624573, -84.3594626)"
+69,NPU Z,2988,21.1,82332.0,736.0,10480.0,24.2,0.5,0.0,136,Thomasville Heights,"Thomasville Heights, Atlanta, GA 30315, USA","(33.7028055, -84.3581483)"
+70,NPU B,2286,44.3,651348.0,1621.0,153283.0,1.0,2.8,1.0,560,Brookhaven,"Brookhaven, GA, USA","(33.8651033, -84.3365917)"
+71,NPU B,2907,32.1,309328.0,1487.0,92923.0,0.4,2.7,0.2,560,Buckhead Forest,"Buckhead Forest, Atlanta, GA 30305, USA","(33.84563139999999, -84.376547)"
+72,NPU B,3380,48.0,295000.0,1727.0,86948.0,1.8,3.8,3.5,560,Buckhead Heights,"Buckhead Heights, Atlanta, GA 30326, USA","(33.8496303, -84.35749109999999)"
+73,NPU B,2332,33.9,429949.0,935.0,68905.0,1.1,3.7,2.2,560,Buckhead Village,"Buckhead, Atlanta, GA, USA","(33.8372663, -84.406761)"
+74,NPU B,1888,35.0,272356.0,1272.0,75063.0,1.2,1.3,0.0,560,East Chastain Park,"East Chastain Park, Atlanta, GA 30342, USA","(33.8682434, -84.3844304)"
+75,NPU B,4034,35.0,420425.0,1098.0,72717.0,1.5,2.9,0.9,560,Garden Hills,"Garden Hills Park, E Wesley Rd NE, Atlanta, GA 30305, USA","(33.8291667, -84.3780556)"
+76,NPU B,5826,29.0,121703.0,1181.0,54876.0,16.2,3.4,0.4,560,Lindbergh/Morosgo,"Lindbergh/Morosgo, Atlanta, GA, USA","(33.8258116, -84.3670983)"
+77,NPU B,8897,38.4,463416.0,1400.0,119891.0,2.0,2.0,2.8,560,North Buckhead,"North Buckhead, Atlanta, GA, USA","(33.8526562, -84.36537539999999)"
+78,NPU B,3732,35.0,428067.0,1169.0,91328.0,4.6,0.5,0.3,560,Peachtree Heights East,"Peachtree Heights East, Atlanta, GA 30305, USA","(33.8263949, -84.3818027)"
+79,NPU B,4439,44.8,457718.0,1177.0,73120.0,1.2,1.2,1.0,560,Peachtree Heights West,"Peachtree Heights West, Atlanta, GA 30305, USA","(33.8352199, -84.39231269999999)"
+80,NPU B,8988,31.1,227234.0,1160.0,61467.0,9.3,3.4,0.9,560,Pine Hills,"Pine Hills, Atlanta, GA 30324, USA","(33.8375365, -84.3515759)"
+81,NPU S,4021,35.0,67118.0,876.0,21669.0,29.2,1.5,0.6,80,Bush Mountain,"Bush Mountain, Atlanta, GA 30310, USA","(33.7277591, -84.43236499999999)"
+82,NPU S,2490,40.2,80416.0,1129.0,36688.0,20.2,1.7,0.6,80,Cascade Avenue/Road,"Cascade Ave SW, Atlanta, GA, USA","(33.7295285, -84.44111339999999)"
+83,NPU S,4264,39.2,73684.0,928.0,27151.0,20.9,1.8,0.2,80,Fort McPherson,"Fort McPherson, Atlanta, GA 30310, USA","(33.7077085, -84.4356468)"
+84,NPU N,4205,33.1,210179.0,960.0,58685.0,7.7,1.1,7.2,221,Cabbagetown,"Cabbagetown, Atlanta, GA, USA","(33.7497918, -84.365377)"
+85,NPU N,5280,35.1,422443.0,1009.0,93928.0,5.8,2.8,4.4,221,Candler Park,"Candler Park, Atlanta, GA 30307, USA","(33.7649327, -84.3463175)"
+86,NPU N,6788,32.5,310453.0,1166.0,69696.0,4.2,3.9,4.6,221,Inman Park,"Inman Park, Atlanta, GA 30307, USA","(33.7583923, -84.35551939999999)"
+87,NPU N,2766,37.5,375975.0,1149.0,101394.0,7.8,0.5,2.8,221,Lake Claire,"Lake Claire, Atlanta, GA 30307, USA","(33.76396860000001, -84.3252791)"
+88,NPU M,16326,26.2,162925.0,988.0,41841.0,9.7,17.8,2.0,653,Castleberry Hill,"Castleberry Hill, Atlanta, GA, USA","(33.7492851, -84.400194)"
+89,NPU M,14321,32.8,160770.0,979.0,42627.0,5.4,10.2,3.4,653,Old Fourth Ward,"Old Fourth Ward, Atlanta, GA, USA","(33.7639588, -84.3719735)"
+90,NPU J,2285,44.4,65024.0,851.0,25679.0,14.2,1.3,0.0,111,Center Hill,"Center Hill, Atlanta, GA, USA","(33.7701651, -84.4618943)"
+91,NPU J,3229,41.5,65916.0,833.0,27140.0,16.2,0.7,0.0,111,Dixie Hills,"Dixie Hills, Atlanta, GA, USA","(33.7585557, -84.45139669999999)"
+92,NPU J,4646,34.7,72455.0,918.0,25891.0,12.6,2.2,0.5,111,Grove Park,"Grove Park, Atlanta, GA, USA","(33.7750273, -84.4461472)"
+93,NPU A,3251,43.0,883916.0,1187.0,,1.7,0.9,0.4,51,Chastain Park,"Chastain Memorial Park, 140 W Wieuca Rd NW, Atlanta, GA 30342, USA","(33.8750856, -84.3906775)"
+94,NPU A,4845,43.3,958256.0,1596.0,186825.0,0.0,0.7,1.0,51,Kingswood,"Kingswood, Atlanta, GA, USA","(33.8556469, -84.4133272)"
+95,NPU A,4410,43.2,871309.0,1560.0,159271.0,0.0,0.1,0.3,51,Margaret Mitchell,"Margaret Mitchell, Atlanta, GA 30327, USA","(33.8357889, -84.4356468)"
+96,NPU O,4680,36.2,219834.0,778.0,51049.0,10.5,0.1,3.9,142,East Lake,"East Lake, Atlanta, GA, USA","(33.7475043, -84.30028639999999)"
+97,NPU O,4213,35.9,203499.0,1020.0,39646.0,9.2,1.5,3.2,142,Edgewood,"Edgewood, Atlanta, GA, USA","(33.7550068, -84.3423734)"
+98,NPU O,6053,38.0,233307.0,893.0,59805.0,11.9,1.0,1.9,142,Kirkwood,"Kirkwood, Atlanta, GA, USA","(33.752831, -84.3252791)"
+99,NPU L,3537,24.5,225878.0,825.0,12628.0,14.3,3.0,1.1,158,English Avenue,"English Avenue, Atlanta, GA, USA","(33.7678014, -84.40938760000002)"
+100,NPU L,3434,30.5,157447.0,840.0,25413.0,31.0,4.7,1.9,158,Vine City,"Vine City, Atlanta, GA, USA","(33.7578773, -84.4054477)"
+101,NPU Q,2852,37.5,180774.0,1094.0,71163.0,15.8,0.7,1.7,1,Midwest Cascade,"Midwest Cascade, Atlanta, GA 30331, USA","(33.7286368, -84.5300827)"
