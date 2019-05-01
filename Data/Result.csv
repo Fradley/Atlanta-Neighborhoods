@@ -1,6 +1,35 @@
-,Name,Crime Count,Population,Median Age,Median House Value,Median Rent,Median Household Income,Public Transit,Walk,Other transit
-14,Atlanta University Center,177,7091,20.5,156008.0,829.0,27742.0,0.12,0.297,0.016
-97,Thomasville Heights,136,2988,21.1,82332.0,736.0,10480.0,0.242,0.005,0.0
-67,Home Park,587,5420,24.1,211485.0,1248.0,44207.0,0.048,0.225,0.040999999999999995
-15,Atlantic Station,587,4120,27.1,257667.0,1190.0,46956.0,0.027999999999999997,0.055999999999999994,0.033
-31,Browns Mill Park,136,4661,29.7,83727.0,820.0,22507.0,0.25,0.001,0.02
+,Crime Count,Population,Median Age,Median House Value,Median Rent,Median Household Income,Name,Location,Coordinates
+69,2,3,1,3,2,3,Inman Park,"Inman Park, Atlanta, GA 30307, USA","(33.7583923, -84.35551939999999)"
+32,2,0,1,3,3,3,Buckhead Forest,"Buckhead Forest, Atlanta, GA 30305, USA","(33.84563139999999, -84.376547)"
+8,3,0,1,3,3,3,Ardmore,"Ardmore, Atlanta, GA 30309, USA","(33.8048477, -84.39756709999999)"
+73,0,0,2,2,3,3,Knight Park/Howell Station,"Knight Park/Howell Station, Atlanta, GA 30318, USA","(33.77941310000001, -84.41989269999999)"
+63,1,3,2,3,3,3,Grant Park,"Grant Park, Atlanta, GA, USA","(33.7371583, -84.36820999999999)"
+81,3,3,2,2,2,3,Midtown,"Midtown Atlanta, Atlanta, GA, USA","(33.783315, -84.3831166)"
+33,2,1,3,3,3,3,Buckhead Heights,"Buckhead Heights, Atlanta, GA 30326, USA","(33.8496303, -84.35749109999999)"
+84,2,3,3,3,3,3,North Buckhead,"North Buckhead, Atlanta, GA, USA","(33.8526562, -84.36537539999999)"
+6,3,1,3,3,3,3,Ansley Park,"Ansley Park, Atlanta, GA, USA","(33.794558, -84.3790372)"
+77,2,3,0,1,2,2,Lindbergh/Morosgo,"Lindbergh/Morosgo, Atlanta, GA, USA","(33.8258116, -84.3670983)"
+15,3,1,0,2,3,2,Atlantic Station,"Atlantic Station, Atlanta, GA, USA","(33.7912543, -84.3987406)"
+67,3,2,0,2,3,2,Home Park,"Home Park, Atlanta, GA, USA","(33.7845319, -84.402823)"
+21,0,1,1,1,1,2,Ben Hill Acres,"Ben Hill Acres, Atlanta, GA 30331, USA","(33.6956061, -84.50779910000001)"
+36,2,2,1,2,1,2,Cabbagetown,"Cabbagetown, Atlanta, GA, USA","(33.7497918, -84.365377)"
+25,2,1,1,2,2,2,Berkeley Park,"Berkeley Park, Atlanta, GA 30318, USA","(33.7909557, -84.4091835)"
+91,2,0,2,3,2,2,Piedmont Heights,"Piedmont Heights, Atlanta, GA, USA","(33.8013127, -84.3720159)"
+55,1,2,3,2,0,2,East Lake,"East Lake, Atlanta, GA, USA","(33.7475043, -84.30028639999999)"
+14,1,3,0,1,1,1,Atlanta University Center,"Atlanta University Center, Atlanta, GA, USA","(33.7498792, -84.4133272)"
+62,3,3,0,2,2,1,Georgia Tech,"North Ave NW, Atlanta, GA 30332, USA","(33.7756178, -84.39628499999999)"
+58,0,2,1,0,0,1,Fairburn Mays,"Fairburn Mays, Atlanta, GA 30331, USA","(33.7403015, -84.5104212)"
+30,3,1,1,3,1,1,Brookwood Hills,"232 Parkdale Way NE, Atlanta, GA 30309, USA","(33.8067961, -84.3899131)"
+68,0,1,3,0,1,1,Hunter Hills,"Hunter Hills, Atlanta, GA 30314, USA","(33.7576114, -84.4303959)"
+42,0,0,3,0,2,1,Cascade Avenue/Road,"Cascade Ave SW, Atlanta, GA, USA","(33.7295285, -84.44111339999999)"
+9,0,2,3,1,2,1,Arlington Estates,"Arlington Estates, Atlanta, GA 30331, USA","(33.6915398, -84.5418765)"
+101,1,0,3,1,1,1,Westview,"Westview, Atlanta, GA 30310, USA","(33.7399222, -84.4395847)"
+2,0,0,0,0,0,0,Adamsville,"Adamsville, Atlanta, GA 30331, USA","(33.7595402, -84.5054158)"
+97,1,0,0,0,0,0,Thomasville Heights,"Thomasville Heights, Atlanta, GA 30315, USA","(33.7028055, -84.3581483)"
+26,1,3,0,0,0,0,Blair Villa/Poole Creek,"Blair Villa/Poole Creek, Atlanta, GA 30354, USA","(33.6521117, -84.3806123)"
+31,1,2,0,1,0,0,Browns Mill Park,"Browns Mill Park, Atlanta, GA, USA","(33.6844957, -84.3844304)"
+35,0,1,2,0,1,0,Bush Mountain,"Bush Mountain, Atlanta, GA 30310, USA","(33.7277591, -84.43236499999999)"
+100,1,2,2,1,0,0,West End,"West End, Atlanta, GA 30310, USA","(33.7383798, -84.4233849)"
+11,1,0,2,0,0,0,Ashview Heights,"Ashview Heights, Atlanta, GA, USA","(33.7515681, -84.41989269999999)"
+0,2,2,2,0,1,0,Adair Park,"Adair Park, Atlanta, GA 30310, USA","(33.7302639, -84.4107008)"
+16,0,3,3,1,0,0,Audobon Forest,"Audobon Forest, Atlanta, GA 30311, USA","(33.7301921, -84.4710782)"
