@@ -1,29 +1,27 @@
 <link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.css'>
-<article>
-<h1>Introduction </h1> 
-<p>We are interested in determining the optimal location for a fancy french fry boutique. In Atlanta, there could be demand for a late-night gourmet french fry boutique to accompany the active night life. Our french fry boutique will not offer many entrees and will focus on snacks and secondarily on drinks.
+
+# Introduction  
+We are interested in determining the optimal location for a fancy french fry boutique. In Atlanta, there could be demand for a late-night gourmet french fry boutique to accompany the active night life. Our french fry boutique will not offer many entrees and will focus on snacks and secondarily on drinks.  
   
-We expect this type of restaurant to have a number of influencing factors, even if the specific restaurant type is somewhat unique. <\p>
-<ul>
-  <li> The food targets younger audiences  </li>
-  <li> Expensive menu favors higher income area  </li>
-<li>Adjacency to bars and other late night attractions makes our restaurant a convenient stop in a busy night </li> 
-  <li>Pedestrian traffic would lead to more first time customers  </li>
+We expect this type of restaurant to have a number of influencing factors, even if the specific restaurant type is somewhat unique.  
+* The food targets younger audiences  
+* Expensive menu favors higher income area  
+* Adjacency to bars and other late night attractions makes our restaurant a convenient stop in a busy night  
+* Pedestrian traffic would lead to more first time customers  
   
-<li>Fast food would detract because it provides cheaper, if lower quality, comfort food</li>
-</ul>
-<h1> Data </hi>
-<p>To determine the optimal location, I used a number of data sets.  </p>
-<ul>
-  <li>NPU geojson to determine crimes per region  </li>
-<li>Statistics of the various neighborhoods (Income, Rent, Housing, Population, Age, Transit statistics)  </li>
-  <li>Data gathered from Foursquare containing attractions nearby each neighborhood  </li>
-  <li>Crime data to overlay on the geojson to determine perception of safety of each neighborhood</li>
-  </ul>
-<p>Here is the map of the crime data:  </p>
+* Fast food would detract because it provides cheaper, if lower quality, comfort food
+
+# Data
+To determine the optimal location, I used a number of data sets.  
+* NPU geojson to determine crimes per region  
+* Statistics of the various neighborhoods (Income, Rent, Housing, Population, Age, Transit statistics)  
+* Data gathered from Foursquare containing attractions nearby each neighborhood  
+* Crime data to overlay on the geojson to determine perception of safety of each neighborhood  
+  
+Here is the map of the crime data:  
 <iframe src="https://fradley.github.io/Atlanta-Neighborhoods/atl_crime_map.html" height="750" width="750"></iframe>
 
-<!-- 
+
 # Methodology  
 ## Safety  
 We evaluated a neighborhood's safety by counting the number of violent crimes in a region. Because we are interested in the perceived danger of a region, the total number of violent crimes is more relevant than the per capita representation. We then had to broadcast the number of crimes down to the individual neighborhoods, which subdivide the neighborhood planning units.
@@ -43,5 +41,3 @@ Our analysis identifies Inman park as our prime candidate with Buckhead Forest, 
 # Conclusion
 
 The purpose of this project was to determine the best locations for a French Fry Boutique in the city of Atlanta, Georgia to focus stakeholder discussions. By classifying the data based on whether it is compatible wth certain types of attractions, we generated a short list of attractions, which we then binned and sorted to allow the neighborhoods with the most desirable attributes rise to the top. Further development in this project may profit from using natural language processing to analyze social media or franchise growth data to determine demand.
--->
-</article>
