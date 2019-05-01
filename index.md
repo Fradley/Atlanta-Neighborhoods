@@ -3,4 +3,4 @@
 # Coursera Capstone Project Directory  
 * [Report](https://fradley.github.io/Atlanta-Neighborhoods/Capstone_Report.html)  
 * [Exploration Notebook](https://fradley.github.io/Atlanta-Neighborhoods/Exploration.html)
-* Blog post
+* [Blog Post](https://fradley.github.io/Atlanta-Neighborhoods/blog.md)
