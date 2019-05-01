@@ -1,0 +1,65 @@
+<p><link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.css'></p>
+
+<h1 id="introduction">Introduction</h1>
+
+<p>We are interested in determining the optimal location for a fancy french fry boutique. In Atlanta, there could be demand for a late-night gourmet french fry boutique to accompany the active night life. Our french fry boutique will not offer many entrees and will focus on snacks and secondarily on drinks.  </p>
+
+<p>We expect this type of restaurant to have a number of influencing factors, even if the specific restaurant type is somewhat unique.  </p>
+
+<ul>
+<li><p>The food targets younger audiences  </p></li>
+
+<li><p>Expensive menu favors higher income area  </p></li>
+
+<li><p>Adjacency to bars and other late night attractions makes our restaurant a convenient stop in a busy night  </p></li>
+
+<li><p>Pedestrian traffic would lead to more first time customers  </p></li>
+
+<li><p>Fast food would detract because it provides cheaper, if lower quality, comfort food</p></li>
+</ul>
+
+<h1 id="data">Data</h1>
+
+<p>To determine the optimal location, I used a number of data sets.  </p>
+
+<ul>
+<li>NPU geojson to determine crimes per region  </li>
+
+<li>Statistics of the various neighborhoods (Income, Rent, Housing, Population, Age, Transit statistics)  </li>
+
+<li>Data gathered from Foursquare containing attractions nearby each neighborhood  </li>
+
+<li>Crime data to overlay on the geojson to determine perception of safety of each neighborhood  </li>
+</ul>
+
+<p>Here is the map of the crime data:</p>
+
+<figure class="map_container">
+  <iframe src="https://fradley.github.io/Atlanta-Neighborhoods/atl_crime_map.html" height="750" width="750"></iframe>
+</figure>
+
+<h1 id="methodology">Methodology</h1>
+
+<h2 id="safety">Safety</h2>
+
+<p>We evaluated a neighborhood's safety by counting the number of violent crimes in a region. Because we are interested in the perceived danger of a region, the total number of violent crimes is more relevant than the per capita representation. We then had to broadcast the number of crimes down to the individual neighborhoods, which subdivide the neighborhood planning units.</p>
+
+<h2 id="attractions">Attractions</h2>
+
+<p>We were able to determine the attractions for each neighborhood by first using Google Maps API to determine the representative coordinates for each neighborhood. We then used the representative point to find all attractions within a certain radius (1 km). We determined compatible attractions and used those to define a classification of whether an area was a good candidate for our restaurant.</p>
+
+<h2 id="analysis">Analysis</h2>
+
+<p>We scaled the data so it could be used by our machine learning algorithms. We began by trying a similar procedure as the Toronto neighborhoods project. Unfortunately, we were unable to generate good clusters when looked at with silhouette analysis. The solution was to refine the question to a classification problem rather than clustering. The similar venue categories were determined to be: 'Gastropub', 'Burger Joint', 'Candy Store', 'Dive Bar', 'Fish &amp; Chips Shop', 'Fried Chicken Joint'. Notable exceptions are various cultural and fast food categories. By training a K-Nearest Neighbors model on the combined Neighborhoods and venues datasets, we could filter most of the neighborhoods. Finally, we gathered the result by assigning importance to low age, low crime, and high income. We used binning to smooth over minute differences before doing a multicolumn sort to determine the most compatible neighborhoods.</p>
+
+<h1 id="results">Results</h1>
+
+<figure class="map_container">
+  <iframe src="https://fradley.github.io/Atlanta-Neighborhoods/ResultMap.html" height="750" width="750"></iframe>
+</figure>
+
+<p>Our analysis identifies Inman park as our prime candidate with Buckhead Forest, Ardmore, Howell Station, and Grant Park as potential alternatives. These locations are defined by having appropriate income levels, age, and lower crime rates while also having attractions deemed to be compatible with our gourmet french fry boutique. While this does not imply that we should build a french fry boutique, if we were to do so anyway, the contribution of location to success would be greatest at these locations.  </p>
+
+<h1 id="conclusion">Conclusion</h1>
+
+<p>The purpose of this project was to determine the best locations for a French Fry Boutique in the city of Atlanta, Georgia to focus stakeholder discussions. By classifying the data based on whether it is compatible wth certain types of attractions, we generated a short list of attractions, which we then binned and sorted to allow the neighborhoods with the most desirable attributes rise to the top. Further development in this project may profit from using natural language processing to analyze social media or franchise growth data to determine demand.</p>
