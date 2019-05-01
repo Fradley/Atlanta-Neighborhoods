@@ -32,7 +32,7 @@
 <li>Crime data to overlay on the geojson to determine perception of safety of each neighborhood  </li>
 </ul>
 
-<p><a href="https://github.com/Fradley/Atlanta-Neighborhoods/Figures/atl_crime_map.html">Here</a> is the map of the crime data:</p>
+<p><a href="https://fradley.github.io/Atlanta-Neighborhoods/Figures/atl_crime_map.html">Here</a> is the map of the crime data:</p>
 <!--
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://github.com/Fradley/Atlanta-Neighborhoods/blob/master/Figures/atl_crime_map.html" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.emojilib.com"></a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
 
@@ -55,12 +55,14 @@
 <p>We scaled the data so it could be used by our machine learning algorithms. We began by trying a similar procedure as the Toronto neighborhoods project. Unfortunately, we were unable to generate good clusters when looked at with silhouette analysis. The solution was to refine the question to a classification problem rather than clustering. The similar venue categories were determined to be: 'Gastropub', 'Burger Joint', 'Candy Store', 'Dive Bar', 'Fish &amp; Chips Shop', 'Fried Chicken Joint'. Notable exceptions are various cultural and fast food categories. By training a K-Nearest Neighbors model on the combined Neighborhoods and venues datasets, we could filter most of the neighborhoods. Finally, we gathered the result by assigning importance to low age, low crime, and high income. We used binning to smooth over minute differences before doing a multicolumn sort to determine the most compatible neighborhoods.</p>
 
 <h1 id="results">Results</h1>
-<p><a href="https://github.com/Fradley/Atlanta-Neighborhoods/Figures/aResultMap.html"> Here</a> is the map of the results.</p>
-<!--
+<p><a href="https://fradley.github.io/Atlanta-Neighborhoods/Figures/ResultMap.html"> Here</a> is the map of the results.</p>
+
+
 <figure class="map_container">
-  <iframe src="https://github.com/Fradley/Atlanta-Neighborhoods/blob/master/Figures/ResultMap.html" height="750" width="750"></iframe>
+  <iframe src="https://fradley.github.io/Atlanta-Neighborhoods/Figures/ResultMap.html" height="750" width="750"></iframe>
 </figure>
--->
+
+
 <p>Our analysis identifies Inman park as our prime candidate with Buckhead Forest, Ardmore, Howell Station, and Grant Park as potential alternatives. These locations are defined by having appropriate income levels, age, and lower crime rates while also having attractions deemed to be compatible with our gourmet french fry boutique. While this does not imply that we should build a french fry boutique, if we were to do so anyway, the contribution of location to success would be greatest at these locations.  </p>
 
 <h1 id="conclusion">Conclusion</h1>
