@@ -18,8 +18,12 @@ To determine the optimal location, I used a number of data sets.
 * Data gathered from Foursquare containing attractions nearby each neighborhood  
 * Crime data to overlay on the geojson to determine perception of safety of each neighborhood  
   
-Here is the map of the crime data:  
-<iframe src="https://fradley.github.io/Atlanta-Neighborhoods/atl_crime_map.html" height="750" width="750"></iframe>
+Here is the map of the crime data:
+
+<figure class="map_container">
+  <iframe src="https://fradley.github.io/Atlanta-Neighborhoods/atl_crime_map.html" height="750" width="750"></iframe>
+</figure>
+
 
 
 # Methodology  
@@ -34,7 +38,9 @@ We scaled the data so it could be used by our machine learning algorithms. We be
 
 # Results 
 
-<iframe src="https://fradley.github.io/Atlanta-Neighborhoods/ResultMap.html" height="750" width="750"></iframe>
+<figure class="map_container">
+  <iframe src="https://fradley.github.io/Atlanta-Neighborhoods/ResultMap.html" height="750" width="750"></iframe>
+</figure>
 
 Our analysis identifies Inman park as our prime candidate with Buckhead Forest, Ardmore, Howell Station, and Grant Park as potential alternatives. These locations are defined by having appropriate income levels, age, and lower crime rates while also having attractions deemed to be compatible with our gourmet french fry boutique. While this does not imply that we should build a french fry boutique, if we were to do so anyway, the contribution of location to success would be greatest at these locations.  
 
